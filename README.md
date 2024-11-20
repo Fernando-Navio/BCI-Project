@@ -15,6 +15,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 ### Machine Learning team
 [Shohail Ismail](https://github.com/shohail-ismail)
 
+[Fernando Navio](https://github.com/Fernando-Navio)
 
 ### Signal Processing team
 [Thorpe Thorpe](https://github.com/ImJustChaotic)
